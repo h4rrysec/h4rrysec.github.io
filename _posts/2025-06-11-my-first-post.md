@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hello World"
-by: Harrison
+Author: Harrison (who else?)
 date: 2025-06-11
 ---
 ## Lets get started.
