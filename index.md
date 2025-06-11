@@ -15,7 +15,7 @@ I plan to use this for several different purposes, namely:
 
   Feel free to reach out at my email (harrisonstone1@protonmail.com), or else find all my other (semi) professional platforms here: https://harrison-stone.carrd.co/
 
-## Thanks!
+### Thanks!
 
 Harrison Stone (h4rrysec)
 
