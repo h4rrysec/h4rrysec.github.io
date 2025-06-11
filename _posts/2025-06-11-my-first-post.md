@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Hello World."
 date: 2025-06-11
 ---
@@ -11,6 +11,6 @@ Well, thats awesome but this is just an example post lol.
 
 Sorry to dissapoint!
 
-:)
+:/
 
 
