@@ -21,7 +21,7 @@ Harrison Stone (h4rrysec)
 
 -------------------------------------------------------------
 
-<h1>Blog</h1>
+<h1>Recent Posts:</h1>
 
 <ul>
   {% for post in site.posts %}
