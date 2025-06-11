@@ -1,6 +1,9 @@
 title: Harrison's Blog
 logo: /assets/img/profile-pic.png
-description: Personal Blog
-show_downloads: falsa
+description: Hi, I'm Harrison — cybersecurity student & tech enthusiast.
+
+  This is my blog! I should have some cool post here, but for now its a work in progress.
+  Check back soon for updates!
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
