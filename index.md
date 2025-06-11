@@ -18,3 +18,16 @@ I plan to use this for several different purposes, namely:
 ## Thanks!
 
 Harrison Stone (h4rrysec)
+
+-------------------------------------------------------------
+
+<h1>Blog</h1>
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a> - 
+      <small>{{ post.date | date: "%B %-d, %Y" }}</small>
+    </li>
+  {% endfor %}
+</ul>
